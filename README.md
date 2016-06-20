@@ -8,7 +8,7 @@ This repository contains some basic tutorials and source code snippets for annot
 Table of Contents
 -----------------
 
-* [Built-in Java Annotations](src/main/java/ch/lihsmi/annotations/BuiltInAnnotations) describes built-in Java annotations
+* [Built-in Java Annotations](src/main/java/ch/lihsmi/annotations/BuiltInAnnotations.java) describes built-in Java annotations
 * [Basic Annotations](src/main/java/ch/lihsmi/annotations/BasicAnnotations.java) describes how to write basic annotations
 
 
