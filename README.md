@@ -10,6 +10,7 @@ Table of Contents
 
 * [Built-in Java Annotations](src/main/java/ch/lihsmi/annotations/BuiltInAnnotations.java) describes built-in Java annotations
 * [Basic Annotations](src/main/java/ch/lihsmi/annotations/BasicAnnotations.java) describes how to write basic annotations
+* [Annotations with multiple targets](src/main/java/ch/lihsmi/annotations/MultiTargetAnnotation.java) describes how to write annotations for multiple targets
 
 
 
