@@ -17,11 +17,11 @@ Table of Contents
 * [Annotations with multiple values](src/main/java/ch/lihsmi/annotations/MultiValueAnnotation.java)
 
 
-
 ### Reflection and Reading Annotations
 
 * [Read Annotation Values via Reflection](src/main/java/ch/lihsmi/annotations/Reflection.java)
   * see also [associated Unit Test](src/test/java/ch/lishmi/annotations/ReflectionTest.java)
+* [Annotations from abstract classes](src/test/java/ch/lihsmi/annotations/AnnotationsFromAbstractClassTest.java)
 
 
 Pifalls
